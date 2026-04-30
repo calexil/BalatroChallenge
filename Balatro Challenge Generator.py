@@ -25,26 +25,26 @@ stakes = [
 
 # Interesting side goals / mini-challenges (inspired by game mechanics and official challenges)
 side_goals = [
-    "Break at least 2 Glass cards during the run",
-    "Trigger the 8 Ball Joker at least 3 times",
-    "Play at least 5 Flush Fives",
-    "Score a hand worth over 1,000,000 chips/mult by Ante 4",
-    "Never buy a Joker that costs more than $8",
-    "Destroy or sell at least 10 Jokers by Ante 8",
-    "Win at least 3 Boss Blinds using only one hand type (e.g. only Straights)",
-    "Have 5 or more Eternal Jokers at the same time",
-    "Make $100+ from Interest in a single round",
-    "Trigger a Polychrome card at least 8 times in one hand",
-    "Clear Ante 8 without ever playing a Face card",
-    "Get a Negative Joker and keep it until the end",
-    "Play at least 20 Stone cards across the run",
-    "Have 3+ Glass cards in your deck at once and don't let any break until Ante 6",
-    "Win a round with exactly 69 chips (nice)",
-    "Trigger the same Joker effect 10 times in a single hand",
-    "Reach Ante 8 with no consumables left in your deck",
-    "Build a deck with only one suit by Ante 5",
-    "Score using only Bonus and Mult cards (no base chips from poker hands)",
-    "Have a single card score over 100 Mult on its own"
+    "Breaking at least 2 Glass cards during the run",
+    "Triggering the 8 Ball Joker at least 3 times",
+    "Playing at least 5 Flush Fives",
+    "Scoring a hand worth over 1,000,000 chips/mult by Ante 4",
+    "Never buying a Joker that costs more than $8",
+    "Destroying or selling at least 10 Jokers by Ante 8",
+    "Winning at least 3 Boss Blinds using only one hand type (e.g. only Straights)",
+    "Having 5 or more Eternal Jokers at the same time",
+    "Making $100+ from Interest in a single round",
+    "Triggering a Polychrome card at least 8 times in one hand",
+    "Clearing Ante 8 without ever playing a Face card",
+    "Getting a Negative Joker and keep it until the end",
+    "Playing at least 20 Stone cards across the run",
+    "Having 3+ Glass cards in your deck at once and don't let any break until Ante 6",
+    "Winning a round with exactly 69 chips (nice)",
+    "Triggering the same Joker effect 10 times in a single hand",
+    "Reaching Ante 8 with no consumables left in your deck",
+    "Building a deck with only one suit by Ante 5",
+    "Scoring using only Bonus and Mult cards (no base chips from poker hands)",
+    "Having a single card score over 100 Mult on its own"
 ]
 
 def generate_challenge():
