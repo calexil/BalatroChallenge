@@ -1,7 +1,7 @@
-#BalatroChallenge
+# BalatroChallenge
 
-##A simple python script that generates a custom Balatro Challenge run
+## A simple python script that generates a custom Balatro Challenge run
 
-###Usage
+### Usage
 
-Siply run the script from terminal `python3 Balatro Challenge Generator.py`
+Simply run the script from terminal `python3 Balatro Challenge Generator.py`
