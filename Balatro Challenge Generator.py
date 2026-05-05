@@ -26,7 +26,7 @@ stakes = [
 # Interesting side goals / mini-challenges
 side_goals = [
     "Breaking at least 2 Glass cards during the run",
-    "Triggering the 8 Ball Joker at least 3 times",
+    "Triggering 8 Ball at least 3 times",
     "Playing at least 2 Flush Fives by ante 8",
     "Scoring a hand worth over 500,000 chips/mult by Ante 4",
     "Never buying a Joker that costs more than $8",
