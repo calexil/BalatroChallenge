@@ -4,7 +4,7 @@ import random
 decks = [
     "Red Deck (+1 Discard)", "Blue Deck (+1 Hand)", "Yellow Deck (+$10 start)",
     "Green Deck (+$ per unused Hand/Discard, no interest)", "Black Deck (-1 Discard, +1 Joker slot)",
-    "Magic Deck (Start with 2 Tarot cards)", "Nebula Deck (Start with 2 Planet cards, -1 Consume slot)",
+    "Magic Deck (Start with 2 Tarot cards)", "Nebula Deck (Start with 2 Planet cards, -1 Consumable slot)",
     "Ghost Deck (Start with a Spectral card)", "Abandoned Deck (No face cards)",
     "Checkered Deck (All Hearts & Spades)", "Zodiac Deck",
     "Painted Deck (Hand size +2, Joker slots -1)", "Anaglyph Deck (Double tags on skips)",
