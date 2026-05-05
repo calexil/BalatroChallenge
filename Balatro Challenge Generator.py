@@ -44,7 +44,7 @@ side_goals = [
     "Building a deck with only one suit by Ante 6",
     "Scoring using only Bonus and Mult cards (Jokerless style)",
     "Having a single card score over 100 Mult on its own",
-    "Playing at least 15 Steel cards across the run",
+    "Having at least 15 Steel cards in deck by Ante 8",
     "Triggering a retrigger Joker (Hanging Chad, Photograph, etc.) at least 4 times in one hand",
     "Having 4 or more Mult cards active at the same time",
     "Winning a round with a High Card hand after Ante 5",
