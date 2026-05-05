@@ -7,7 +7,7 @@ decks = [
     "Magic Deck (Start with 2 Tarot cards)", "Nebula Deck (Start with 2 Planet cards, -1 Consumable slot)",
     "Ghost Deck (Start with a Spectral card)", "Abandoned Deck (No face cards)",
     "Checkered Deck (All Hearts & Spades)", "Zodiac Deck",
-    "Painted Deck (Hand size +2, Joker slots -1)", "Anaglyph Deck (Double tags on skips)",
+    "Painted Deck (Hand size +2, Joker slots -1)", "Anaglyph Deck (Double tag awarded after defeating Boss Blind)",
     "Plasma Deck (Chips & Mult averaged)", "Erratic Deck (Random ranks and suits)"
 ]
 
