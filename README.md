@@ -1,4 +1,5 @@
 # BalatroChallenge
+[![CodeFactor](https://www.codefactor.io/repository/github/calexil/balatrochallengegenerator/badge/main)](https://www.codefactor.io/repository/github/calexil/balatrochallengegenerator/overview/main)
 
 ## A simple python script that generates a custom Balatro Challenge run
 
